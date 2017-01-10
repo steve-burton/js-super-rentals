@@ -1,3 +1,8 @@
+{ "announcements": [{
+  "announcement": "Come to the lobby tonight for BONGO!"
+  }]
+},
+
 { "rentals": [{
     "owner": "Veruca Salt",
     "city": "San Francisco",
